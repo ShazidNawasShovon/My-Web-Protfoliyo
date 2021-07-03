@@ -1,0 +1,54 @@
+.Color-a {
+  color: rgb(8, 84, 94);
+}
+p {
+  font-family: "Yomogi", cursive;
+}
+h1 {
+  font-family: "Festive", cursive;
+  font-size: 70px;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 0%;
+}
+h3 {
+  font-size: 40px;
+}
+section {
+  display: flex;
+}
+.a {
+  width: 50%;
+  padding-left: 30px;
+}
+.b {
+  width: 45%;
+  padding-left: 5%;
+  padding-top: 5%;
+}
+.b img {
+  width: 65%;
+}
+.link-button {
+  font-family: "Yomogi", cursive;
+  text-decoration: none;
+  background-attachment: fixed;
+  background-image: repeating-linear-gradient(
+    coral,
+    red,
+    white,
+    coral,
+    blue,
+    black
+  );
+  font-size: 17px;
+  font-weight: 700;
+  padding: 10px 25px;
+  border-radius: 5px;
+  color: rgb(23, 45, 94);
+}
+.top-banner {
+  background-image: url(images/top-banner.png);
+  background-repeat: no-repeat;
+}

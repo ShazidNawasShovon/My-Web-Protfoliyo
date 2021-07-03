@@ -34,11 +34,7 @@ h3 {
   font-family: "Yomogi", cursive;
   text-decoration: none;
   background-attachment: fixed;
-  background-image: linear-gradient(
-    rgb(196, 86, 59),
-    rgb(39, 156, 121),
-    rgb(185, 87, 224)
-  );
+  background-image: linear-gradient(rgb(196, 86, 59), rgb(39, 156, 121));
   font-size: 17px;
   font-weight: 700;
   padding: 10px 25px;
